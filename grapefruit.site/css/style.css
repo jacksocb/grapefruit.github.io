@@ -1,0 +1,61 @@
+
+
+body {
+  text-align: center;
+  width: 600px; 
+  margin: 0px auto;
+  background-color: white;
+  font-family: 'helvetica', serif;
+  color: #F64000;
+}
+
+h1{
+    margin: 10px auto;
+    font-size: 4em;
+    color: #333;
+}
+
+p {
+  font-family: 'helvetica', serif;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.quote {
+  font-family: 'helvetica', serif;
+  font-size: 1.5em;
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #efefef;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.9);;
+  border-radius: px;
+  color: #000;
+}
+
+.author {
+  font-style: italic;
+}
+
+.button {
+  font-family: 'helvetica', serif;
+  height: 50px;
+  width: 150px;
+  margin: 20px auto;
+  color: #F64000;
+  background-color: white;
+  text-align: center; 
+  font-size: 20px;
+  border-radius: 5px;
+  outline: 0 !important;
+}
+
+a {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-family: sans-serif;
+  font-size: 12pt;
+}
+
